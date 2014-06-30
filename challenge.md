@@ -2,10 +2,10 @@
 
 Battleship is a classic two­-player guessing game which many of you may have played in actual board game or electronic form. In this challenge, you will make a virtual battleship player.
 
-Important Links:
-[Challenge Interface](https://student.people.co/#/home/battleship2014)
-[Code Submission Form](https://docs.google.com/a/nvs.io/forms/d/11k06x4EE6ZPURWoiblV-ybr_KF2M8JOMK7OZMTYcSmU/viewform)
-[Tech Draft 2014 Support Chatroom](https://www.hipchat.com/g9Yih0LlG)
+Important Links:  
+[Challenge Interface](https://student.people.co/#/home/battleship2014)  
+[Code Submission Form](https://docs.google.com/a/nvs.io/forms/d/11k06x4EE6ZPURWoiblV-ybr_KF2M8JOMK7OZMTYcSmU/viewform)  
+[Tech Draft 2014 Support Chatroom](https://www.hipchat.com/g9Yih0LlG)  
 
 ##### Objective
 
@@ -24,15 +24,21 @@ You submit a “shot” to a location on the board, and the server will tell you
 
 Your program is expected to play Battleship using a simple HTTP API. You API urls may be found on the [Challenge Interface](https://student.people.co/#/home/battleship2014). NOTE: These URLs are unique to each player - please do not share them with each other. Below is documentation for the accepted HTTP methods and response formats for each URL:
 
-URL https://student.people.co/api/challenge/battleship/<user_id>/boards GET returns a JSON list of board objects
-Example success response (HTTP 200)
+URL https://student.people.co/api/challenge/battleship/<user_id>/boards  
+GET returns a JSON list of board objects  
+Example success response (HTTP 200):
+
+```
 [
-{
-"board_id": "live_board_1",
-"url": "https://student.people.co/api/challenge/battleship/2deb6109356e/boards/live_board_1", "is_test": false,
-"is_finished": false
-}, {
-"board_id": "test_board_1",
-"url": "https://student.people.co/api/challenge/battleship/2deb6109356e/boards/test_board_1", "is_test": true,
-"is_finished": false
-} ]
+ {
+  "board_id": "live_board_1",
+  "url": "https://student.people.co/api/challenge/battleship/2deb6109356e/boards/live_board_1", "is_test": false,
+  "is_finished": false
+ },
+ {
+  "board_id": "test_board_1",
+  "url": "https://student.people.co/api/challenge/battleship/2deb6109356e/boards/test_board_1", "is_test": true,
+  "is_finished": false
+ }
+]
+```

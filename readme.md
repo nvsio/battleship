@@ -10,5 +10,6 @@ Battleship is a classic two­-player guessing game which many of you may have pl
 ```
 node node/example/peopleco-challenge-nodejs_example.js
 ```
-**License**  
+
+##### License
 Copyright (c) 2014 [Nikhil Srinivasan](https://github.com/nikhilsrinivasan). Licensed under the [MIT License](https://github.com/nikhilsrinivasan/battleship/blob/master/license.md).

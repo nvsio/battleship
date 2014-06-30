@@ -1,26 +1,26 @@
 {
-  "name": "peopleco-challenge-nodejs",
-  "version": "0.0.0",
-  "main": "lib/peopleco-challenge-nodejs.js",
-  "description": "The best module ever.",
-  "homepage": "https://github.com/neosavvyinc/peopleco-challenge-nodejs",
-  "bugs": "https://github.com/neosavvy/peopleco-challenge-nodejs/issues",
+  "name": "battleship",
+  "version": "0.0.1",
+  "main": "lib/battleship.js",
+  "description": "Battleship AI in Node",
+  "homepage": "https://github.com/nikhilsrinivasan/battleship",
+  "bugs": "https://github.com/nikhilsrinivasan/battleship/issues",
   "author": {
-    "name": "Adam Parrish",
-    "email": "aparrish@neosavvy.com",
-    "url": "www.neosavvy.com"
+    "name": "Nikhil Srinivasan",
+    "email": "nikhil@nvs.io",
+    "url": "nvs.io"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/neosavvy/peopleco-challenge-nodejs"
+    "url": "https://github.com/nikhilsrinivasan/battleship"
   },
   "license": "MIT",
   "files": [
     "lib"
   ],
   "keywords": [
-    "peopleco-challenge-nodejs",
-    ""
+    "peopleco",
+    "techdraft"
   ],
   "devDependencies": {
     "grunt-contrib-jshint": "^0.10.0",

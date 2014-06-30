@@ -1,4 +1,4 @@
-#### PEOPLE.CO BATTLESHIP CHALLENGE
+#### PEOPLE.CO Battleship Challenge
 
 Battleship is a classic two­-player guessing game which many of you may have played in actual board game or electronic form. In this challenge, you will make a virtual battleship player.
 

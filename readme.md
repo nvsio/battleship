@@ -5,3 +5,11 @@ People.Co is a venture-backed startup focused on building a next-generation recr
 
 ##### Battleship Challenge
 Battleship is a classic two­-player guessing game which many of you may have played in actual board game or electronic form. Develop a program that acts like an intelligent battleship player and minimizes the number of “shots” required to find and sink all of the opposing player’s ships. [More information](/challenge.md).
+
+##### Command Line
+```
+node node/example/peopleco-challenge-nodejs_example.js
+```
+
+##### License
+Copyright (c) 2014 [Nikhil Srinivasan](https://github.com/nikhilsrinivasan).

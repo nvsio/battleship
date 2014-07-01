@@ -1,6 +1,6 @@
 'use strict'
 
-var peopleco = require("./")
+var peopleco = require("./lib/peopleco.js")
 var base = "student.people.co",
     user = "e0ab7bceaea8",
     endpoint = "/api/challenge/battleship/" + user + "/boards/"

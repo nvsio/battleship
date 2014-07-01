@@ -1,0 +1,62 @@
+[
+  {
+    "board_id": "live_board_2",
+    "url": "https://student.people.co/api/challenge/battleship/e0ab7bceaea8/boards/live_board_2",
+    "is_test": false,
+    "is_finished": false
+  },
+  {
+    "board_id": "live_board_3",
+    "url": "https://student.people.co/api/challenge/battleship/e0ab7bceaea8/boards/live_board_3",
+    "is_test": false,
+    "is_finished": false
+  },
+  {
+    "board_id": "live_board_1",
+    "url": "https://student.people.co/api/challenge/battleship/e0ab7bceaea8/boards/live_board_1",
+    "is_test": false,
+    "is_finished": false
+  },
+  {
+    "board_id": "live_board_4",
+    "url": "https://student.people.co/api/challenge/battleship/e0ab7bceaea8/boards/live_board_4",
+    "is_test": false,
+    "is_finished": false
+  },
+  {
+    "board_id": "live_board_5",
+    "url": "https://student.people.co/api/challenge/battleship/e0ab7bceaea8/boards/live_board_5",
+    "is_test": false,
+    "is_finished": false
+  },
+  {
+    "board_id": "test_board_4",
+    "url": "https://student.people.co/api/challenge/battleship/e0ab7bceaea8/boards/test_board_4",
+    "is_test": true,
+    "is_finished": false
+  },
+  {
+    "board_id": "test_board_5",
+    "url": "https://student.people.co/api/challenge/battleship/e0ab7bceaea8/boards/test_board_5",
+    "is_test": true,
+    "is_finished": false
+  },
+  {
+    "board_id": "test_board_1",
+    "url": "https://student.people.co/api/challenge/battleship/e0ab7bceaea8/boards/test_board_1",
+    "is_test": true,
+    "is_finished": false
+  },
+  {
+    "board_id": "test_board_2",
+    "url": "https://student.people.co/api/challenge/battleship/e0ab7bceaea8/boards/test_board_2",
+    "is_test": true,
+    "is_finished": false
+  },
+  {
+    "board_id": "test_board_3",
+    "url": "https://student.people.co/api/challenge/battleship/e0ab7bceaea8/boards/test_board_3",
+    "is_test": true,
+    "is_finished": false
+  }
+]

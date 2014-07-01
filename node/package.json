@@ -1,0 +1,8 @@
+{
+    "name": "battleship",
+    "version": "0.0.1",
+    "description": "Battleship AI in Node",
+    "dependencies": {
+        "underscore": "latest",
+    }
+}
